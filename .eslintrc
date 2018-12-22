@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "eslint-config-hzdg",
+    "eslint-config-hzdg-react"
+  ],
+  "rules": {}
+}
